@@ -4,6 +4,8 @@ A radar-style object detection system built using an Arduino Uno, HC-SR04 ultras
 radar.py is the GUI to view the arduino data into the classic radar system
 arduino_radar.ino is the code for the operation of the radar using HC-SR04, SG90 Servo, Arduino Uno
 
+refer to circuit_diagram.pdf for setup 
+
 ## Using the code
 1. Upload `arduino_radar.ino` to Arduino
 2. Run `radar.py` in Python
